@@ -37,4 +37,16 @@ npm run build
 npm run preview
 ```
 
+# Home page
+
+![alt text](image.png)
+
+# Job listings
+
+![alt text](image-1.png)
+
+## Authors
+
+# Wisdom Dzontoh Mawuli
+
 - You can save this content into a `README.md` file in your project directory.
